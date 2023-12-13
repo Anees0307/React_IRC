@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  width: 150vw;
+  height: 200vh;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/110/422/423/hotel-sea-beach-pier-wallpaper-preview.jpg");
+}
